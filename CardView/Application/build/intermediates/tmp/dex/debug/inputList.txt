@@ -1,0 +1,2 @@
+C:\Users\v\Desktop\cohort2\CardView\Application\build\intermediates\classes\debug
+C:\Users\v\Desktop\cohort2\CardView\Application\build\intermediates\pre-dexed\debug\classes-7ee4b7ea220b87f971a60de79e05add0be05414c.jar

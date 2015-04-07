@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Depends</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="words">There is no fixed way.It Really depends!</string>
+    <string name="margaret">I am a Lady!</string>
+    <string name="quote">At the end of your life, you will be judged by the opportunities you took and not by the ones you did not!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quote5">Quote5</string>
+    <string name="title_activity_quote6">Quote6</string>
+    <string name="title_activity_quote3">Quote3</string>
+</resources>
